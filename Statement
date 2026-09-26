@@ -1,0 +1,44 @@
+# Problem Statement
+
+Students juggle assignments, timetables, deadlines, and study time across
+subjects, but usually track them scattered across notebooks, phone notes,
+or memory. This makes it easy to forget deadlines, lose track of how much
+work is actually done, and study subjects unevenly. There is no single,
+simple tool a first-year student can use to see everything in one place
+without needing a complicated app or a paid service.
+
+# Scope of the Project
+
+This project is a command-line Python application that allows a single
+student to:
+
+- Add, view, complete, and delete academic tasks
+- Assign a priority (High / Medium / Low) and a deadline to each task
+- Maintain a simple weekly timetable
+- Log study time per subject
+- View overall task progress as a percentage
+- View a one-screen dashboard summarizing tasks, progress, and study time
+
+**Out of scope for this version:**
+- Saving data permanently between runs (no file or database storage)
+- Multiple user accounts or login
+- A graphical user interface (GUI)
+- Notifications, reminders, or calendar integration
+- Searching or filtering tasks
+
+# Target Users
+
+- First-year (and other) college students who want a simple, no-setup way
+  to track academic tasks, a weekly timetable, and study time
+- Anyone learning basic Python who wants to see these concepts (lists,
+  loops, functions, conditionals) applied in a small real project
+
+# High-Level Features
+
+1. Task Manager — add, view, complete, and delete tasks with subject,
+   priority, and deadline
+2. Timetable — add a class to a day and view the weekly timetable
+3. Study Time Tracker — log and view hours studied per subject
+4. Progress Report — calculates completed vs. pending tasks as a percentage
+5. Dashboard — a single summary screen showing tasks, progress, and study
+   time at a glance
