@@ -57,6 +57,7 @@ Save data to a file so it doesn't get lost after closing
 Add a search option for tasks
 Show overdue tasks based on deadline
 Maybe build a GUI version later
+
 🙋‍♂️ About
 
 Made by: Divyanshu Kediyal University: VIT Bhopal This project was made by me as part of my first-year B.Tech CSE college submission.
