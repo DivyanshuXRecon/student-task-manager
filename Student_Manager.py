@@ -1,6 +1,4 @@
 # STUDENT TASK MANAGER
-# A simple beginner-level Python project
-# Uses only lists, loops, if/elif/else, and simple functions
 
 # ----- LISTS TO STORE TASK DATA -----
 task_names = []
