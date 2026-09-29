@@ -52,7 +52,7 @@ Follow the on-screen menu to use the program.
 
 This project does not save data permanently. All tasks, timetable, and study time will be lost once you close the program. I kept it this way to focus on practicing the basic logic first. I plan to add file saving in a future update.
 
-##**Future Improvements**
+## **Future Improvements**
 
 Save data to a file so it doesn't get lost after closing
 Add a search option for tasks
