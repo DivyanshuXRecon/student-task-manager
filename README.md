@@ -1,4 +1,4 @@
-##Student Task Manager 
+## Student Task Manager 
 
 This is my first-year B.Tech CSE mini project made using Python. It is a simple command-line (terminal) program that helps a student manage their daily tasks, timetable, and study time.
 
