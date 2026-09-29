@@ -4,7 +4,7 @@ This is my first-year B.Tech CSE mini project made using Python. It is a simple 
 
 I made this project to practice the basic Python concepts I learned in my first semester, like lists, loops, if-else, and functions.
 
- **What this project does**
+ ## **What this project does**
 Add and manage daily study tasks
 Set priority for tasks (High / Medium / Low)
 Mark tasks as completed
